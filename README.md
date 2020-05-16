@@ -55,3 +55,7 @@ You can also extract the `collection.anki2` database out of a `.apkg` (these are
 - The current working directory must be in the root of the Git repo
 - Currently only the sort field (which is usually the front of the card) is considered.
 This may be a problem if it contains furigana or if alternative definitions are on the back.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 or any later version.
